@@ -4,7 +4,7 @@ Complemento de QGIS de adaptación de variables ambientales para el modelado de 
 
 ## Manual
 
-Enlace ["Manuael MaExent Model v.1.0" (PDF)](/Manual_Adaptador_Maxent_para_QGIS.pdf)
+Enlace ["Manual MaExent Model v.1.0" (PDF)](/Manual_Adaptador_Maxent_para_QGIS.pdf)
 
 ## Información
 
