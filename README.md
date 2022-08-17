@@ -1,3 +1,3 @@
 # Maxent model QGIS plugin
 
-Complemento de QGIS de adaptación de variables ambientales para modelos de distrinbución potencial de especies en Maxent.
+Complemento de QGIS de adaptación de variables ambientales para modelos de distribución potencial de especies con [Maxent](https://biodiversityinformatics.amnh.org/open_source/maxent/).
