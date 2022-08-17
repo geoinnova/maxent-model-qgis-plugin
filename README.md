@@ -1,7 +1,8 @@
 # Maxent model QGIS plugin
 
-Complemento de QGIS de adaptación de variables ambientales para modelos de distribución potencial de especies con [Maxent](https://biodiversityinformatics.amnh.org/open_source/maxent/).
+Complemento de QGIS de adaptación de variables ambientales para el modelado de la distribución geográfica de las especies en base a la máxima entropía con el programa [MaxEnt](https://biodiversityinformatics.amnh.org/open_source/maxent/) creado por por Steven Phillips, Miro Dudik y Rob Schapire.
 
 ## Información
 
+- [MaxEnt Model – Plugin QGIS de adaptación de variables ambientales para el modelado de la distribución geográfica de las especies MaxEnt](https://geoinnova.org/plugins/maxent-model/
 - [Adaptador de cartografía Maxent para QGIS. GIS&beers](http://www.gisandbeers.com/adaptador-cartografia-maxent-para-qgis/)
