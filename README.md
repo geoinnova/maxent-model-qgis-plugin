@@ -4,5 +4,5 @@ Complemento de QGIS de adaptación de variables ambientales para el modelado de 
 
 ## Información
 
-- [MaxEnt Model – Plugin QGIS de adaptación de variables ambientales para el modelado de la distribución geográfica de las especies MaxEnt](https://geoinnova.org/plugins/maxent-model/
+- [MaxEnt Model – Plugin QGIS de adaptación de variables ambientales para el modelado de la distribución geográfica de las especies MaxEnt](https://geoinnova.org/plugins/maxent-model/)
 - [Adaptador de cartografía Maxent para QGIS. GIS&beers](http://www.gisandbeers.com/adaptador-cartografia-maxent-para-qgis/)
