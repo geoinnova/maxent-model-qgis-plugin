@@ -6,8 +6,8 @@ Este plugin de QGIS te ayudará a adaptar tu cartografía de coordenadas y varia
 
 ## Developement
 
-- Roberto Matellanes (Gis&Beers). Models and procesing toolsModelos y herramientas de procesammiento.
-- Patricio Soriano (Geoinnova). Pluging developement.
+- Roberto Matellanes- [Gis&Beers](http://www.gisandbeers.com/). Models and procesing toolsModelos y herramientas de procesammiento.
+- Patricio Soriano - [Geoinnova](https://geoinnova.org/). Pluging developement.
 
 ## Help
 
