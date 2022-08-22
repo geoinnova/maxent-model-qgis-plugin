@@ -1,0 +1,48 @@
+# This file contains metadata for your plugin.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=Maxent Model
+qgisMinimumVersion=3.0
+description=Maxent mapping adapter for QGIS. Adaptador de cartografía Maxent para QGIS
+version=1.0
+author=Roberto Matellanes (Gis&Beers, processing tools). Patricio Soriano (Geoinnova, plugin development)
+email=info@geoinnova.org
+
+about= This plugin will help you to adapt your coordinates and environmental variables for file input in Maxent respecting CSV and ASCII file formats and structure during the construction of potential species distribution models (SDM). Este plugin te ayudará a adaptar tu cartografía de coordenadas y variables ambientales para la entrada de archivos en Maxent respetando los formatos y estructura de archivos CSV y ASCII durante la construcción de modelos de distribución potencial de especies (SDM).
+
+tracker=https://github.com/geoinnova/maxent-model-qgis-plugin/issues
+repository=https://github.com/geoinnova/maxent-model-qgis-plugin
+# End of mandatory metadata
+
+# Recommended items:
+
+hasProcessingProvider=yes
+# Uncomment the following line and add your changelog:
+changelog=
+    17.08.2022 V1.0: Version 1.0
+
+# Tags are comma separated with spaces allowed
+tags=SDM, biodiversity, ecology, species, maxent, modeling
+
+homepage=https://geoinnova.org/plugins/
+category=Analysis
+icon=icon.png
+# experimental flag
+experimental=False
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
+# Since QGIS 3.8, a comma separated list of plugins to be installed
+# (or upgraded) can be specified.
+# Check the documentation for more information.
+# plugin_dependencies=
+
+Category of the plugin: Raster, Vector, Database or Web
+# category=
+
+# If the plugin can run on QGIS Server.
+server=False
+
