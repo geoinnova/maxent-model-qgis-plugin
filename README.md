@@ -4,10 +4,10 @@ This QGIS plugin will help you to adapt your coordinates and environmental varia
 
 Este plugin de QGIS te ayudará a adaptar tu cartografía de coordenadas y variables ambientales para la entrada de archivos en [MaxEnt](https://biodiversityinformatics.amnh.org/open_source/maxent/) respetando los formatos y estructura de archivos CSV y ASCII durante la construcción de modelos de distribución potencial de especies (SDM). 
 
-## Developement
+## Development
 
 - Roberto Matellanes- [Gis&Beers](http://www.gisandbeers.com/). Models and procesing toolsModelos y herramientas de procesammiento.
-- Patricio Soriano - [Geoinnova](https://geoinnova.org/). Pluging developement.
+- Patricio Soriano - [Geoinnova](https://geoinnova.org/). Pluging development.
 
 ## Help
 
